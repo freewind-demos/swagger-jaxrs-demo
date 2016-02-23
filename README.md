@@ -8,7 +8,7 @@ The swagger-ui is demonstrated in another example "swagger-ui-demo".
 How to run
 =====
 
-`gradle jettyRun`
+`gradle clean jettyRun`
 
 Then visit: 
 
